@@ -16,7 +16,7 @@
   
 ### Clear
 
-[**Demo**](https://denv3rr.github.io/clear/)
+[**Demo**]() (Under development)
 
 [**Repo**](https://github.com/denv3rr/clear)
 
