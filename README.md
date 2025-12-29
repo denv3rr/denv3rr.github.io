@@ -15,8 +15,6 @@
 </a>
   
 ### Clear
-
-[**Demo**](https://denv3rr.github.io/clear/)
   
 [**Repo**](https://github.com/denv3rr/clear)
 
