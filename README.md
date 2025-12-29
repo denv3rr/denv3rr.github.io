@@ -7,23 +7,6 @@
 
 <br><br>
 
-<!-- LINK TEMPLATE
-
-### Project Title
-  Run:
-  - [link title](url)
-    
-  Repo
-  - [repo](url)
-
-<-- DIVIDER -->
-<!--
-<a href="https://seperet.com">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=200>
-</a>
-
--->
-
 ### [seperet.com](https://seperet.com)
 
 <!-- DIVIDER -->
@@ -31,26 +14,50 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=200>
 </a>
   
-### Particles
-  Run:
-  - [run](https://denv3rr.github.io/particles/)
-    
-  Repo
-  - [repo](https://github.com/denv3rr/particles)
+### Clear
+
+[**Demo**](https://denv3rr.github.io/clear/)
+  
+[**Repo**](https://github.com/denv3rr/clear)
+
+<a href="https://github.com/denv3rr/clear">
+  <img src="https://opengraph.githubassets.com/1/denv3rr/clear" width="300"/>
+</a>
+<br>
 
 <!-- DIVIDER -->
 <a href="https://seperet.com">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=200>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=200>
+</a>
+
+### Particles
+
+[**Demo**](https://denv3rr.github.io/particles/)
+  
+[**Repo**](https://github.com/denv3rr/particles)
+
+<a href="https://github.com/denv3rr/particles">
+  <img src="https://opengraph.githubassets.com/1/denv3rr/particles" width="300"/>
+</a>
+<br>
+
+<!-- DIVIDER -->
+<a href="https://seperet.com">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=200>
 </a>
 
 ### Mod-Exp
-  Run:
-  - [run](https://denv3rr.github.io/mod-exp/)
+
+  [**Demo**](https://denv3rr.github.io/mod-exp/)
     
-  Repo
-  - [repo](https://github.com/denv3rr/mod-exp)
+  [**Repo**](https://github.com/denv3rr/mod-exp)
+  
+  <a href="https://github.com/denv3rr/mod-exp">
+    <img src="https://opengraph.githubassets.com/1/denv3rr/mod-exp" width="300"/>
+  </a>
+  <br>
 
 <!-- DIVIDER -->
 <a href="https://seperet.com">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=200>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=200>
 </a>
